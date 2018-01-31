@@ -1,0 +1,12 @@
+DIR SYSTEMS   GENERAL    \\mdtafile\MDT_Share\MDT-OPS\Boston Ops\Admin\Systems - General\
+DIR CSAPP     OUTPUT     \\mdtafile\MDT_Share\MDT-OPS\Boston Ops\Trading\CUSIPSCAN\Output\
+DIR CSAPP     RESOURCES  \\mdtafile\MDT_Share\MDT-OPS\Boston Ops\Trading\CUSIPSCAN\Resources\
+DIR ADVENT    DISK       \\mdtafile\MDT_Share\QuantOps\Ops\Disk\AXYSPort\
+DIR APL       DISK       \\mdtafile\MDT_Share\QuantOps\Ops\Disk\APLAcct\
+DIR APL       HOLDINGS   \\mdtafile\MDT_Share\MDT-OPS\Boston Ops\Trading\CUSIPSCAN\Input\
+DIR SPOT      TRADING    \\mdtafile\MDT_Share\QuantOps\Ops\Trading\
+FIL SPOT      CUSIP      CUSIP9.txt
+FIL SPOT      PROHIB     pil.txt
+FIL SYSTEMS   HOLIDAYS   holidays.txt
+FIL SYSTEMS   USERS      UserSettings.txt
+FIL CSAPP     LOG        CSLog.txt
